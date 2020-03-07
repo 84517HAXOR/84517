@@ -1,0 +1,26 @@
+{
+  "admin": {
+    "username": "baba",
+    "password": "aacf1ab604c80cea99c546ca4eb948bd",
+    "loginToken": "",
+    "logs": [
+      {
+        "time": "2020-01-11T15:23:07.971Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2020-01-11T15:27:32.586Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2020-01-11T16:08:04.582Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      }
+    ],
+    "ipLog": []
+  },
+  "clients": []
+}
